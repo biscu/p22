@@ -16,7 +16,7 @@ function Hm() {
         <div className="App">
           <Wrapper>
             <Header 
-            hero="HM Product Details Page"
+            hero="HM Product Details Page test change 1"
             title=""
             subtitle="How we increased overall convertions and dicreased size related returns by releasing different functionality aim at reducing friction during the size selectin experience." 
             />

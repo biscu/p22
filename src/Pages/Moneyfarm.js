@@ -2,7 +2,6 @@ import Header from "../components/Header/Header";
 import Wrapper from "../components/Wrapper/Wrapper";
 import Theme from "../components/Theme/Theme.style";
 import Block from "../components/Block/Block"
-import HMImage from "../Images/Test.jpg";
 
 //Import all the images
 import Hero from "../Images/moneyfarm-2fa/00-2fa-hero.webp";

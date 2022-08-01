@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import { ThemeProvider } from "styled-components";
 
 export const StyledData = styled.h3`
     line-height: 1.3;

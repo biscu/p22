@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb3a79de.css",
-    "main.js": "/static/js/main.59e76934.js",
+    "main.css": "/static/css/main.3de7da97.css",
+    "main.js": "/static/js/main.e244c65a.js",
     "static/media/size-up-down.png": "/static/media/size-up-down.32a2d76aef84a267d9d9.png",
     "static/media/size-selector.png": "/static/media/size-selector.187cf80405e143851296.png",
-    "static/media/Test.jpg": "/static/media/Test.cf1435a7e6e4ee1561f8.jpg",
     "static/media/Inter-Regular.woff": "/static/media/Inter-Regular.8c206db99195777c6769.woff",
     "static/media/TTFirsNeue-Regular.ttf": "/static/media/TTFirsNeue-Regular.7925664aab1bc42bbc9b.ttf",
     "static/media/02-2fa-requirements.webp": "/static/media/02-2fa-requirements.173f01d43545c425a35c.webp",
@@ -19,11 +18,11 @@
     "static/media/03-2fa-user-journey.webp": "/static/media/03-2fa-user-journey.a3eb1c1f2eff73cadd33.webp",
     "static/media/01-2fa-customers-feedback.webp": "/static/media/01-2fa-customers-feedback.fe72afba76007edf349f.webp",
     "index.html": "/index.html",
-    "main.eb3a79de.css.map": "/static/css/main.eb3a79de.css.map",
-    "main.59e76934.js.map": "/static/js/main.59e76934.js.map"
+    "main.3de7da97.css.map": "/static/css/main.3de7da97.css.map",
+    "main.e244c65a.js.map": "/static/js/main.e244c65a.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb3a79de.css",
-    "static/js/main.59e76934.js"
+    "static/css/main.3de7da97.css",
+    "static/js/main.e244c65a.js"
   ]
 }

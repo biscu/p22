@@ -1,8 +1,5 @@
-import { P } from "../Typography/Typography.style"
 import { Heading, Symbol } from "../Typography/Typography"
 import { StyleBlock, BlockImage, BlockP } from "./Block.style"
-import GetImageSize from "../ImageSize/GetImageSize";
-import Spacer from "../Spacer/Spacer";
 
 export default function Block (props) {
   return (

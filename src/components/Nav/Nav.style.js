@@ -1,6 +1,4 @@
 import styled from "styled-components";
-import { ThemeProvider } from "styled-components";
-
 
 // REMEMBER TO FIX THE LINK STYLE CURRENTLY IN INDEX CSS
 

@@ -2,7 +2,6 @@ import Header from "../components/Header/Header";
 import Wrapper from "../components/Wrapper/Wrapper";
 import Card from "../components/Card/Card";
 import Theme from "../components/Theme/Theme.style";
-import HM from "../Images/Test.jpg";
 import { Link } from "react-router-dom";
 
 // Import images

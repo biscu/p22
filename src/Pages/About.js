@@ -1,9 +1,6 @@
-import Header from "../components/Header/Header";
 import Wrapper from "../components/Wrapper/Wrapper";
-import Card from "../components/Card/Card";
-import { P, H } from "../components/Typography/Typography.style"
+import { P } from "../components/Typography/Typography.style"
 import Theme from "../components/Theme/Theme.style";
-import HM from "../Images/Test.jpg";
 
 function About() {
   return (

@@ -1,13 +1,13 @@
 import "./Header.scss"
-import { P } from "../Typography/Typography.style"
-import { Heading, Hero } from "../Typography/Typography"
+import { Heading1, Heading2, Hero, Paragraph } from "../Typography/Typography.style"
 
 export default function header (props) {
   return (
     <div className="header">
-       <Hero {...props}/>
-       <Heading {...props}/>
-       <P size="medium"> {props.subtitle } </P>
+       <Hero> {props.hero} </Hero>
+       <Heading1> {props.heading1} </Heading1>
+       <Heading2> {props.heading2} </Heading2>
+       <Paragraph size="medium"> {props.paragraph } </Paragraph>
     </div>
   )
 }

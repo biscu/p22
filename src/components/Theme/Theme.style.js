@@ -22,6 +22,7 @@ const theme = {
   },
   spacings: {
     m0: "0px",
+    m4: "4px",
     m8: "8px",
     m16: "16px",
     m24: "24px",

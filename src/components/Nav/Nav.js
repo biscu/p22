@@ -12,6 +12,7 @@ export default function Nav() {
         <Link to="/hm">HM</Link>
         <Link to="/handy">Handy</Link>
         <Link to="/moneyfarm">Moneyfarm</Link>
+        <Link to="/styleguide">Style Guide</Link>
         </StyledLink>
     </StyledNav>
   )

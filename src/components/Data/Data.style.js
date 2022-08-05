@@ -40,6 +40,8 @@ export const StyledDataText = styled.span`
     border-radius: 8px; 
     background-color: ${({ theme: { bg } }) => bg.image};
     padding: ${({ theme: { spacings } }) => spacings.m8};
+    padding-top: ${({ theme: { spacings } }) => spacings.m4};
+    padding-bottom: ${({ theme: { spacings } }) => spacings.m4};
     color: ${({ theme: { colors } }) => colors.positive};
     display:inline-block;
 `

@@ -14,25 +14,25 @@ function Home() {
         <div className="App">
           <Wrapper>
             <Header 
-            title="I'm Davide — a digital product designer creating inclusive products with empathy, research and data, matching user needs with business requirements."
-            subtitle="Research and qualitatively testing? Check! Design System creation and maintaincance in Figma? Check! Results oriented strategy with stakeholders? Check!
+            heading1="I'm Davide — a digital product designer creating inclusive products with empathy, research and data, matching user needs with business requirements."
+            paragraph="Research and qualitatively testing? Check! Design System creation and maintaincance in Figma? Check! Results oriented strategy with stakeholders? Check!
             I worked with:"
             />
             <Link to="/hm">
                 <Card 
-                  title="H&#38;M"
+                  heading1="H&#38;M"
                   image={SizeSelector} 
                 />
             </Link>
             <Link to="/moneyfarm">
                 <Card 
-                  title="Moneyfarm"
+                  heading1="Moneyfarm"
                   image={SizeSelector} 
                 />
             </Link>
             <Link to="/handy">
                 <Card 
-                  title="Handy"
+                  heading1="Handy"
                   image={SizeSelector} 
                 />
             </Link>

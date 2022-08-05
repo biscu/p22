@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { P } from "../Typography/Typography.style"
+import { Paragraph } from "../Typography/Typography.style"
 import { keyframes } from 'styled-components'
 
 export const StyleBlock = styled.div`
@@ -26,6 +26,6 @@ export const BlockImage  = styled.img`
       margin-left: 0px;
 `
 
-  export const BlockP  = styled(P)`
+  export const BlockP  = styled(Paragraph)`
     margin-bottom: ${({ theme: { spacings } }) => spacings.m48};
 `

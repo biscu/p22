@@ -11,7 +11,7 @@ function ErrorPage() {
 
             title="Oh no, a 404!"
 
-            subtitle="Too bad"
+            paragraph="Too bad"
             />
           </Wrapper>
         </div>

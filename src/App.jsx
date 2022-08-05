@@ -8,6 +8,7 @@ import Handy from "./Pages/Handy";
 import ErrorPage from "./Pages/ErrorPage";
 import Nav from "./components/Nav/Nav";
 import ScrollToTop from "./components/ScrollToTop/ScrollToTop";
+import StyleGuide from "./Pages/StyleGuide";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
                 <Route path="/hm" element={ <Hm/> }> </Route>
                 <Route path="/moneyfarm" element={ <Moneyfarm/> }> </Route>
                 <Route path="/handy" element={ <Handy/> }> </Route>
+                <Route path="/styleguide" element={ <StyleGuide/> }> </Route>
                 <Route path="*" element={ <ErrorPage/> }> </Route>
               </Routes>
         </ScrollToTop>
